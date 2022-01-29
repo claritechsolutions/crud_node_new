@@ -1,4 +1,4 @@
-goto : https://github.com/jayshriwaghmode/crud_node
+goto : https://github.com/claritechsolutions/crud_node_new
 
 take clone on local.
 run npm install on package.json
